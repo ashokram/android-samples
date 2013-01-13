@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DisplayCharacteristics</string>
+    <string name="density_label">Pixel Density:</string>
+    <string name="size_label">Size:</string>
+    <string name="actual_label">Dimensions:</string>
+    <string name="density_factor_label">Density factory:</string>
+    <string name="device_pixels_label">DP Dimensions: </string>
+
+</resources>
